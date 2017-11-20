@@ -1,0 +1,24 @@
+matera/college/target/
+!matera/college/.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+matera/college/.apt_generated
+matera/college/.classpath
+matera/college/.factorypath
+matera/college/.project
+matera/college/.settings
+matera/college/.springBeans
+
+### IntelliJ IDEA ###
+matera/college/.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+matera/college/nbproject/private/
+matera/college/build/
+matera/college/nbbuild/
+matera/college/dist/
+matera/college/nbdist/
+matera/college/.nb-gradle/
